@@ -9,3 +9,14 @@
 /Users/Guest/Desktop/cardealership/bin/Debug/netcoreapp2.2/car.pdb
 /Users/Guest/Desktop/cardealership/obj/Debug/netcoreapp2.2/car.dll
 /Users/Guest/Desktop/cardealership/obj/Debug/netcoreapp2.2/car.pdb
+C:\Users\p403s\Desktop\Car-Dealership\bin\Debug\netcoreapp2.2\car.deps.json
+C:\Users\p403s\Desktop\Car-Dealership\bin\Debug\netcoreapp2.2\car.runtimeconfig.json
+C:\Users\p403s\Desktop\Car-Dealership\bin\Debug\netcoreapp2.2\car.runtimeconfig.dev.json
+C:\Users\p403s\Desktop\Car-Dealership\bin\Debug\netcoreapp2.2\car.dll
+C:\Users\p403s\Desktop\Car-Dealership\bin\Debug\netcoreapp2.2\car.pdb
+C:\Users\p403s\Desktop\Car-Dealership\obj\Debug\netcoreapp2.2\car.csprojAssemblyReference.cache
+C:\Users\p403s\Desktop\Car-Dealership\obj\Debug\netcoreapp2.2\car.csproj.CoreCompileInputs.cache
+C:\Users\p403s\Desktop\Car-Dealership\obj\Debug\netcoreapp2.2\car.AssemblyInfoInputs.cache
+C:\Users\p403s\Desktop\Car-Dealership\obj\Debug\netcoreapp2.2\car.AssemblyInfo.cs
+C:\Users\p403s\Desktop\Car-Dealership\obj\Debug\netcoreapp2.2\car.dll
+C:\Users\p403s\Desktop\Car-Dealership\obj\Debug\netcoreapp2.2\car.pdb

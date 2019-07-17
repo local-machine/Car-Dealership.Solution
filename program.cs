@@ -28,10 +28,13 @@ namespace Dealership
         }
       }
 
-      foreach(Car automobile in CarsMatchingSearch)
-      {
-        Console.WriteLine(automobile.GetMakeModel());
-      }
+    foreach(Car automobile in CarsMatchingSearch)
+    {
+      Console.WriteLine("----------------------");
+      Console.WriteLine(automobile.GetMakeModel());
+      Console.WriteLine(automobile.GetMiles() + " miles");
+      Console.WriteLine("$" + automobile.GetPrice());
+    }
     }
   }
 }
